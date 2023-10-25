@@ -38,4 +38,5 @@
 -   Dia 16/10: Começamos a fazer todo o código do FrontEnd com base no Mockup que fizemos.(Participantes: Needhan, Pedro, Rafael✅).
 -   Dia 18/10: Terminamos o Banco de Dados com todas as tabelas feitas. Fizemos também pesquisas de textos para adicionarmos no nosso site.(Participantes: Rafael e Needhan✅).
 -   Dia 23/10: Adiantamos parte do FrontEnd, e estamos começando a fazer o sistema de funcionamento do Banco de Dados com o BackEnd e FrontEnd.(Participantes: Pedro, Rafael e Needhan✅).
+-   Dia 25/10: Terminamos de fazer todas as páginas em HTML e CSS, também terminamos de fazer as perguntas e pesquisas do ChatBoot.(Participantes: Pedro, Needhan e Rafael✅).
   
