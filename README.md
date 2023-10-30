@@ -39,4 +39,6 @@
 -   Dia 18/10: Terminamos o Banco de Dados com todas as tabelas feitas. Fizemos também pesquisas de textos para adicionarmos no nosso site.(Participantes: Rafael e Needhan✅).
 -   Dia 23/10: Adiantamos parte do FrontEnd, e estamos começando a fazer o sistema de funcionamento do Banco de Dados com o BackEnd e FrontEnd.(Participantes: Pedro, Rafael e Needhan✅).
 -   Dia 25/10: Terminamos de fazer todas as páginas em HTML e CSS, também terminamos de fazer as perguntas e pesquisas do ChatBoot.(Participantes: Pedro, Needhan e Rafael✅).
+-   Dia 28/10: Todas as páginas estão responsivas e uma parte do financeiro já está concluida(Participantes: Pedro e Needhan✅).
+-   Dia 30/10: 
   
